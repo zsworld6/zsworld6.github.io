@@ -28,6 +28,6 @@ latest_posts:
 
 I am a senior undergraduate student in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), where I am a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/) — an elite program for the top 5% of students with a spirit of innovation and challenge.
 
-I am currently a research intern at [SII](https://www.sii.edu.cn/) and [GAIR Lab](https://plms.ai/), advised by [Prof. Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ). I will also be a research intern at [UC Merced](https://www.ucmerced.edu/), advised by [Prof. Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ), from August to December 2025.
+I am currently a research intern at [SII](https://www.sii.edu.cn/) and [GAIR Lab](https://plms.ai/), advised by [Prof. Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ). I was a research intern at [UC Merced](https://www.ucmerced.edu/), advised by [Prof. Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ), from August to December 2025.
 
 My research interests focus on **LLM/AI evaluation and benchmarking**, including building robust evaluation frameworks for large language models, multimodal systems, and AI coding agents.

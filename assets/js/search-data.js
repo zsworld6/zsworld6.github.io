@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-new-preprint-researcherbench-evaluating-deep-ai-research-systems-on-the-frontiers-of-scientific-inquiry-is-now-available-on-arxiv",
+          title: 'New preprint: ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-projdevbench-was-featured-on-量子位-qbitai-a-leading-chinese-tech-media-outlet",
+          title: 'Our paper ProjDevBench was featured on 量子位 (QbitAI), a leading Chinese tech media...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-new-preprint-projdevbench-benchmarking-ai-coding-agents-on-end-to-end-project-development-is-now-available-on-arxiv",
+          title: 'New preprint: ProjDevBench: Benchmarking AI Coding Agents on End-to-End Project Development is now...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
